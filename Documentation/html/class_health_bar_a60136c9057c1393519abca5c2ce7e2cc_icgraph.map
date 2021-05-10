@@ -1,0 +1,5 @@
+<map id="HealthBar.SetHealth" name="HealthBar.SetHealth">
+<area shape="rect" id="node2" href="$class_enemy_controller.html#a2345ab5e7c9d80cc36f8e5b446520403" title="Hit: If the Enemy is hit, this is called and the enemy loses a health point, by default the enemy onl..." alt="" coords="219,5,357,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#a1bbcb29583c29eaacf5aa9296cd6eba6" title="TankHit: If the tank is hit by an enemy, this is called and the Tank loses health. If it loses too much health, by default it has 20 lives, then it is destroyed and the game restarts. " alt="" coords="211,56,365,83"/>
+<area shape="rect" id="node4" href="$class_tank_controller.html#aff6f6b274c4fad8e59fc5b43d4396c30" title="TankAddLives: To give the user a way to gain health, this is called when the user eliminates an enemy..." alt="" coords="193,107,383,133"/>
+</map>

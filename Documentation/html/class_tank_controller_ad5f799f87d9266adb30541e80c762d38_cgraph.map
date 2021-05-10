@@ -1,0 +1,4 @@
+<map id="TankController.Update" name="TankController.Update">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a3c6de5e2991e376724707eb6daadc5ae" title="RestartGame: Re&#45;Loads the Scene so that everything is fresh and new. " alt="" coords="204,5,391,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#a72e0721748f6c91f7d0216e16b48ce39" title="FireRocket: Creates the Rocket instance and calls it&#39;s Setup function to move the Rocket with a speci..." alt="" coords="211,56,383,83"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="RocketController.RocketHit" name="RocketController.RocketHit">
+<area shape="rect" id="node2" href="$class_rocket_controller.html#ad4e8d9d5ad811a7a001a0678a2144fa2" title="OnTriggerEnter: This checks if the rocket hits, or lands close to, an enemy and if so..." alt="" coords="232,5,411,47"/>
+</map>

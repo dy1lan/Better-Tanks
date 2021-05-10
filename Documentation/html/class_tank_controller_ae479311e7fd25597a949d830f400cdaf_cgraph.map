@@ -1,0 +1,9 @@
+<map id="TankController.FixedUpdate" name="TankController.FixedUpdate">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a1ce7fbc24b7b7ab957efa9d4252fa787" title="GetInput: Saves the Horizontal and Vertical Inputs for the Tank Movement and the Turret Movement ..." alt="" coords="252,5,411,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#a499404e3a5850587023f48c68b7c5e7e" title="Steer: Sets the SteerAngle, Resets the front wheels if no horizontal input is noticed and rotates the..." alt="" coords="261,56,401,83"/>
+<area shape="rect" id="node6" href="$class_tank_controller.html#ad3f33d347b51aa807c847f7a1d1cf769" title="Move: Moves the Tank by multiplying the rigidbody by the speed using MovePosition. Also, rotates the front wheels for turning and rotates the whole tank if moving. " alt="" coords="262,107,401,133"/>
+<area shape="rect" id="node7" href="$class_tank_controller.html#a2470079d31a887871ea0b0365000a9d2" title="RotateWheels: Calls the Function AdjustWheelSpin for each tire and gives a tire speed. " alt="" coords="236,157,427,184"/>
+<area shape="rect" id="node4" href="$class_tank_controller.html#a26dd75e41f39db9ec48f0a11c3215e9c" title="ResetRotation: resets the front wheels rotation so that they are always pointing forward when not bei..." alt="" coords="484,56,675,83"/>
+<area shape="rect" id="node5" href="$class_tank_controller.html#a9a8552b4bf9ffd7c29095e9abb5a41c0" title="AdjustRotation: This is used to rotate the Wheels left and right, The turret left and right and the c..." alt="" coords="482,107,677,133"/>
+<area shape="rect" id="node8" href="$class_tank_controller.html#a2bef6a1c96dce89c6687f38af63ea574" title="AdjustWheelSpin: Rotates the wheel, forward and backwards, by a speed passed in the parameters..." alt="" coords="475,157,684,184"/>
+</map>

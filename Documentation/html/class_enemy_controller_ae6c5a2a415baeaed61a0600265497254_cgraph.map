@@ -1,0 +1,3 @@
+<map id="EnemyController.ShootBullet" name="EnemyController.ShootBullet">
+<area shape="rect" id="node2" href="$class_enemy_controller.html#a0b2f6f90c4926f5820da8626c5fb0312" title="IEnumerator WaitingToShoot: waits for a certain amount of seconds before firing the next bullet at th..." alt="" coords="243,5,423,47"/>
+</map>

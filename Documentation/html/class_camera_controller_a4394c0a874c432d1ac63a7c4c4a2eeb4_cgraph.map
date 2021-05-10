@@ -1,0 +1,4 @@
+<map id="CameraController.FixedUpdate" name="CameraController.FixedUpdate">
+<area shape="rect" id="node2" href="$class_camera_controller.html#acb14f2c9752b8e5e8e7afd9c86b447ae" title="LookAtTarget: Makes sure the camera stays looking at the target(Tank) and looks down at the target(Ta..." alt="" coords="254,5,457,32"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#a79831008bb764801df46a3c91343a524" title="MoveToTarget: Follows the Target(Tank) wherever it goes. " alt="" coords="252,56,459,83"/>
+</map>

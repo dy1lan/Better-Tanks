@@ -1,0 +1,3 @@
+<map id="EnemyController" name="EnemyController">
+<area shape="rect" id="node3" href="$class_health_bar.html" title="{HealthBar\n|+ slider\l|+ SetHealth()\l+ SetMaxHealth()\l}" alt="" coords="115,132,239,224"/>
+</map>

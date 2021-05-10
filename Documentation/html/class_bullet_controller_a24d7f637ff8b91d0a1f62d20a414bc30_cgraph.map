@@ -1,0 +1,3 @@
+<map id="BulletController.OnTriggerEnter" name="BulletController.OnTriggerEnter">
+<area shape="rect" id="node2" href="$class_bullet_controller.html#a46bba3bfa60683a454b64d974db909b0" title="BulletHit: This is called when the Bullet hits anything, it plays an audio clip and creates an explos..." alt="" coords="224,13,387,39"/>
+</map>

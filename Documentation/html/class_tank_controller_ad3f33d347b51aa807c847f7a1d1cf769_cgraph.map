@@ -1,0 +1,3 @@
+<map id="TankController.Move" name="TankController.Move">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a9a8552b4bf9ffd7c29095e9abb5a41c0" title="AdjustRotation: This is used to rotate the Wheels left and right, The turret left and right and the c..." alt="" coords="192,5,387,32"/>
+</map>

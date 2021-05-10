@@ -1,0 +1,3 @@
+<map id="TankController.RotateWheels" name="TankController.RotateWheels">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a2bef6a1c96dce89c6687f38af63ea574" title="AdjustWheelSpin: Rotates the wheel, forward and backwards, by a speed passed in the parameters..." alt="" coords="244,5,453,32"/>
+</map>

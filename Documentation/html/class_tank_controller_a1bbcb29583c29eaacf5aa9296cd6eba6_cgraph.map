@@ -1,0 +1,4 @@
+<map id="TankController.TankHit" name="TankController.TankHit">
+<area shape="rect" id="node2" href="$class_health_bar.html#a60136c9057c1393519abca5c2ce7e2cc" title="HealthBar.SetHealth" alt="" coords="230,5,370,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#a3c6de5e2991e376724707eb6daadc5ae" title="RestartGame: Re&#45;Loads the Scene so that everything is fresh and new. " alt="" coords="207,56,393,83"/>
+</map>

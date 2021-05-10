@@ -1,0 +1,3 @@
+<map id="RocketController.OnTriggerEnter" name="RocketController.OnTriggerEnter">
+<area shape="rect" id="node2" href="$class_rocket_controller.html#aba1bee8ceb3cd93892d3c6aa8a85f894" title="RocketHit: This is called when the rocket hits anything, it plays an audio clip and creates an explos..." alt="" coords="232,13,411,39"/>
+</map>

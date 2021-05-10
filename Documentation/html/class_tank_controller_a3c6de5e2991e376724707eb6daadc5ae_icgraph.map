@@ -1,0 +1,4 @@
+<map id="TankController.RestartGame" name="TankController.RestartGame">
+<area shape="rect" id="node2" href="$class_tank_controller.html#ad5f799f87d9266adb30541e80c762d38" title="TankController.Update" alt="" coords="241,5,392,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#a1bbcb29583c29eaacf5aa9296cd6eba6" title="TankHit: If the tank is hit by an enemy, this is called and the Tank loses health. If it loses too much health, by default it has 20 lives, then it is destroyed and the game restarts. " alt="" coords="240,56,393,83"/>
+</map>

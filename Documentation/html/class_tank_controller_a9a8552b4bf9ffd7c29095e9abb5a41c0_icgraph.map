@@ -1,0 +1,5 @@
+<map id="TankController.AdjustRotation" name="TankController.AdjustRotation">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a499404e3a5850587023f48c68b7c5e7e" title="Steer: Sets the SteerAngle, Resets the front wheels if no horizontal input is noticed and rotates the..." alt="" coords="248,5,388,32"/>
+<area shape="rect" id="node4" href="$class_tank_controller.html#ad3f33d347b51aa807c847f7a1d1cf769" title="Move: Moves the Tank by multiplying the rigidbody by the speed using MovePosition. Also, rotates the front wheels for turning and rotates the whole tank if moving. " alt="" coords="249,56,387,83"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#ae479311e7fd25597a949d830f400cdaf" title="TankController.FixedUpdate" alt="" coords="436,31,619,57"/>
+</map>

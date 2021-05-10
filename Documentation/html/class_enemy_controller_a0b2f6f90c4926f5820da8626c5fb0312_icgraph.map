@@ -1,0 +1,4 @@
+<map id="EnemyController.WaitingToShoot" name="EnemyController.WaitingToShoot">
+<area shape="rect" id="node2" href="$class_enemy_controller.html#ae6c5a2a415baeaed61a0600265497254" title="ShootBullet: Creates the Bullet instance and calls it&#39;s Setup function to move the Bullet with a spec..." alt="" coords="233,13,423,39"/>
+<area shape="rect" id="node3" href="$class_enemy_controller.html#a41090510cff98622fe675d1f6e3ecd82" title="EnemyController.Update" alt="" coords="471,13,633,39"/>
+</map>

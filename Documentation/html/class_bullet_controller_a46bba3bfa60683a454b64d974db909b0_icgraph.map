@@ -1,0 +1,3 @@
+<map id="BulletController.BulletHit" name="BulletController.BulletHit">
+<area shape="rect" id="node2" href="$class_bullet_controller.html#a24d7f637ff8b91d0a1f62d20a414bc30" title="OnTriggerEnter: Checks if the Enemies bullet collided with the player, if so, then call the players T..." alt="" coords="216,5,387,47"/>
+</map>

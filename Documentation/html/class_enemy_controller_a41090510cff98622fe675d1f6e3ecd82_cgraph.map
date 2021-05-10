@@ -1,0 +1,6 @@
+<map id="EnemyController.Update" name="EnemyController.Update">
+<area shape="rect" id="node2" href="$class_enemy_controller.html#a75a55953530b0cc64ec243eaf6bfb462" title="LookatPlayer: this allows the enemy to pin point the Player and follow their moves to shoot at them..." alt="" coords="216,5,415,32"/>
+<area shape="rect" id="node3" href="$class_enemy_controller.html#ae6c5a2a415baeaed61a0600265497254" title="ShootBullet: Creates the Bullet instance and calls it&#39;s Setup function to move the Bullet with a spec..." alt="" coords="221,56,410,83"/>
+<area shape="rect" id="node5" href="$class_enemy_controller.html#a7084e211d3e9167568dfb5cdaf13c08d" title="ResetLook: Once the player moves out of sight, this is called to set the enemy back to it&#39;s initial p..." alt="" coords="223,107,407,133"/>
+<area shape="rect" id="node4" href="$class_enemy_controller.html#a0b2f6f90c4926f5820da8626c5fb0312" title="IEnumerator WaitingToShoot: waits for a certain amount of seconds before firing the next bullet at th..." alt="" coords="463,49,643,90"/>
+</map>

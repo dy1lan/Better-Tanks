@@ -1,0 +1,4 @@
+<map id="TankController.AdjustWheelSpin" name="TankController.AdjustWheelSpin">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a2470079d31a887871ea0b0365000a9d2" title="RotateWheels: Calls the Function AdjustWheelSpin for each tire and gives a tire speed. " alt="" coords="263,5,453,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#ae479311e7fd25597a949d830f400cdaf" title="TankController.FixedUpdate" alt="" coords="501,5,684,32"/>
+</map>

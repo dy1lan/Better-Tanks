@@ -1,0 +1,4 @@
+<map id="TankController.Steer" name="TankController.Steer">
+<area shape="rect" id="node2" href="$class_tank_controller.html#a26dd75e41f39db9ec48f0a11c3215e9c" title="ResetRotation: resets the front wheels rotation so that they are always pointing forward when not bei..." alt="" coords="195,5,386,32"/>
+<area shape="rect" id="node3" href="$class_tank_controller.html#a9a8552b4bf9ffd7c29095e9abb5a41c0" title="AdjustRotation: This is used to rotate the Wheels left and right, The turret left and right and the c..." alt="" coords="193,56,388,83"/>
+</map>
